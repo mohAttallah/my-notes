@@ -42,4 +42,4 @@ The main idea of Git and Github is to provide a version control system for softw
 
 ---
 
-#**<p style="text-align: center;">All Done</p>**
+**<p style="text-align: center;">All Done</p>**
